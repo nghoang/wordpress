@@ -1,0 +1,27 @@
+#attribute_list input[type="text"]
+{
+	width: 154px;
+	margin-top: 6px;
+}
+
+#attribute_list input[type="checkbox"]
+{
+	width: auto;
+	float: none;
+}
+
+#attribute_list select
+{
+	float: none;
+}
+
+.ymm_section
+{
+	height: 23px;
+}
+
+.ymm_section span
+{
+	width: 51px;
+	display: inline-block;
+}
